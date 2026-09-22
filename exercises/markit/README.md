@@ -31,16 +31,20 @@
 
 ## Folder Structure
 
-### Starter State (right after clone)
+### Current State
 
-In a fresh clone, this practice project contains only:
+Scaffolding complete as of `/start-0-1`. Folders exist and are empty — they'll fill up as you work through the lessons.
 
 ```text
 exercises/markit/
+├── campaigns/
+├── content/
+├── brand/
+├── research/
+├── analytics/
+├── templates/
 └── README.md
 ```
-
-This is expected. The folders below are created during `/start-0-1` and populated progressively through lessons.
 
 ### Target Structure (built across lessons)
 
